@@ -3,13 +3,13 @@ Um aplicativo desenvolvido utilizando [React JS](reactjs.org) que, após receber
 
 # Como usar
 1º- Rode o comando abaixo para instalar as dependências do projeto:
-
+```
 npm install 
-
+```
 2º- Feito isso, basta digitar o comando abaixo para iniciar o projeto localmente:
-
+```
 npm start
-
+```
 3º- Com o aplicativo já iniciado abra a URL onde o mesmo está sendo rodado e procure por um usuário:
 
 ![image](https://user-images.githubusercontent.com/55641441/125713962-1ba20111-6121-491f-8116-b1845d47e8b8.png)
